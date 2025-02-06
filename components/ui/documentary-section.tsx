@@ -66,7 +66,7 @@ export function DocumentarySection() {
       viewers: [
         { name: "Nathan", status: "Watched", avatar: "https://i.ibb.co/n6Z8RtP/image.png", rating: 3.5 },
         { name: "Joao", status: "Watched", avatar: "https://i.ibb.co/FwW9Jxf/image.png", rating: 0 },
-        { name: "Gabriel", status: "lated", avatar: "https://i.ibb.co/4K2rPH5/image.png", rating: 0 },
+        { name: "Gabriel", status: "Lated", avatar: "https://i.ibb.co/4K2rPH5/image.png", rating: 0 },
         { name: "Igor", status: "Watched", avatar: "https://i.ibb.co/bLfVfTz/image.png", rating: 4.0 },
       ],
       overallRating: 3.7,

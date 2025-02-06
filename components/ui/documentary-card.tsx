@@ -6,7 +6,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
 interface Viewer {
   name: string
-  status: "To Watch" | "Watched" | "lated"
+  status: string
   avatar: string
   rating: number
 }
@@ -16,7 +16,7 @@ interface Documentary {
   title: string
   director: string
   country: string
-  duration: number
+  duration: string
   description: string
   cover: string
   viewers: Viewer[]
